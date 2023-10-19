@@ -12,7 +12,7 @@
 
 
 ## Презентация
-[Ссылка на презентацию]([https://disk.yandex.ru/i/TytVrbWRwKorsQ])
+[Ссылка на презентацию](https://disk.yandex.ru/i/TytVrbWRwKorsQ)
 
 ## Используемые навыки и инструменты
 `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `SciPy`, `Исследовательский анализ`, `Проверка статистических гипотез`
